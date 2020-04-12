@@ -24,16 +24,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css",
-              "src/css/master.css",
-              "src/css/responsive.css",
-              "src/css/slick.css",
-              "src/css/icofonts.min.css",
-              "src/css/custom-icons.min.css",
-              "src/css/cubeportfolio.css",
-              "src/css/bootstrap.min.css",
-              "src/css/bootsnav.css",
-              "src/css/animate.css"
+              "src/styles.css"
             ],
             "scripts": []
           },
